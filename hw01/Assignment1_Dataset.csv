@@ -1,0 +1,311 @@
+EmpID,EmpName,Sex,DateofBirth,State,Zip,IsMarried,MaritalStatusCode,MaritalStatus,EmpStatusCode,EmploymentStatus,IsTerminated,TermReason,DeptCode,Department,PositionID,Position,Position Type,AnnualSalary ,HourlyRate ,ManagerID,ManagerName
+1103024456,"Brown, Mia",F,11/24/87,MA,1450,1,1,Married,1,Active,0,,1,Admin Offices,1,Accountant I,FullTime,"$75,000.00 ",,1102024115,Brandon R. LeBlanc
+1106026572,"LaRotonda, William  ",M ,4/26/84,MA,1460,0,2,Divorced,1,Active,0,,1,Admin Offices,1,Accountant I,FullTime,"$75,000.00 ",,1102024115,Brandon R. LeBlanc
+1302053333,"Steans, Tyrone  ",M ,9/1/86,MA,2703,0,0,Single,1,Active,0,,1,Admin Offices,1,Accountant I,FullTime,"$75,000.00 ",,1102024115,Brandon R. LeBlanc
+1211050782,"Howard, Estelle",F,9/16/85,MA,2170,1,1,Married,1,Terminated for Cause,1,Another position,1,Admin Offices,2,Administrative Assistant,FullTime,"$65,280.00 ",,1102024115,Brandon R. LeBlanc
+1307059817,"Singh, Nan ",F,5/19/88,MA,2330,0,0,Single,1,Active,0,,1,Admin Offices,2,Administrative Assistant,Hourly,,$34.00 ,1102024115,Brandon R. LeBlanc
+711007713,"Smith, Leigh Ann",F,6/14/87,MA,1844,1,1,Married,5,Voluntarily Terminated,1,career change,1,Admin Offices,2,Administrative Assistant,FullTime,"$65,280.00 ",,1102024115,Brandon R. LeBlanc
+1504073368,"Bunbury, Jessica",F,6/1/64,VA,21851,1,1,Married,5,Voluntarily Terminated,1,Another position,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1403065721,"Carter, Michelle ",F,5/15/63,VT,5664,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1408069481,"Dietrich, Jenna  ",F,5/14/87,WA,98052,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1306059197,"Digitale, Alfred",M ,9/14/88,NH,3062,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1204032843,"Friedman, Gerry",M ,2/24/69,NY,10171,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,,$45.00 ,1499902910,John Smith
+1302053046,"Gill, Whitney  ",F,7/10/71,OH,43050,0,4,Widowed,4,Terminated for Cause,1,attendance,6,Sales,3,Area Sales Manager,,,$45.00 ,1499902910,John Smith
+1411071481,"Gonzales, Ricardo",M ,10/12/54,ID,83706,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,,$45.00 ,1499902910,John Smith
+1001167253,"Guilianno, Mike",M ,2/9/69,TN,37129,0,0,Single,5,Voluntarily Terminated,1,relocation out of area,6,Sales,3,Area Sales Manager,,,$45.00 ,1499902910,John Smith
+1412071660,"Leruth, Giovanni",M ,12/27/88,UT,84111,0,3,Separated,1,Active,0,,6,Sales,3,Area Sales Manager,,,$45.00 ,1499902910,John Smith
+1306057978,"Mullaney, Howard",M ,11/2/75,AL,36006,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+812011761,"Ozark, Travis",M ,5/19/82,NC,27229,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1411071295,"Strong, Caitrin",F,5/12/89,MT,59102,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1312063714,"Valentin,Jackie",F,5/23/91,AZ,85006,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1111030503,"Villanueva, Noah",M ,7/11/89,ME,4063,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1499902910,John Smith
+1504073313,"Buck, Edward",M ,7/7/75,MA,2330,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1409070567,"Costa, Latia",F,11/8/88,CA,90007,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1411071302,"Fraval, Maruk ",M ,8/28/63,CT,6050,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1203032099,"Givens, Myriam",F,9/22/89,IN,46204,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1001084890,Jeremy Prater,M ,5/9/74,NV,89139,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1104025008,"Khemmich, Bartholemew",M ,11/27/79,CO,80820,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1209048771,"Martins, Joseph",M ,6/11/70,TX,78207,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1209049326,"McKinzie, Jac",M ,7/1/84,TX,78789,1,1,Married,2,Future Start,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1111030684,"Nguyen, Dheepa",F,3/31/89,GA,30428,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1501072180,"Onque, Jasmine",F,5/11/90,FL,33174,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1102024106,"Potts, Xana",F,8/29/88,KY,40220,1,1,Married,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1502072711,"Riordan, Michael",M ,1/15/68,ND,58782,0,3,Separated,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1401064637,"Terry, Sharlene ",F,5/7/65,OR,97756,0,0,Single,1,Active,0,,6,Sales,3,Area Sales Manager,,"$85,000.00 ",,1402065303,Lynn Daneault
+1009919940,"Rachael, Maggie",F,5/12/80,MA,2110,1,1,Married,1,Active,0,,3,IT/IS,4,BI Developer,,"$60,000.00 ",,1009919920,Brian Champaigne
+1009919980,"Smith, Jason",M ,9/4/83,MA,2045,0,0,Single,1,Active,0,,3,IT/IS,4,BI Developer,,"$60,000.00 ",,1009919920,Brian Champaigne
+1009919990,"Westinghouse, Matthew",M ,10/24/87,MA,2134,1,1,Married,1,Active,0,,3,IT/IS,4,BI Developer,,"$60,000.00 ",,1009919920,Brian Champaigne
+1009920000,"Hubert, Robert",M ,6/30/89,MA,2134,1,1,Married,1,Active,0,,3,IT/IS,4,BI Developer,,"$60,000.00 ",,1009919920,Brian Champaigne
+1009919920,"Champaigne, Brian",M ,2/9/72,MA,2045,1,1,Married,1,Active,0,,3,IT/IS,5,BI Director,,"$78,560.00 ",,1112030816,Jennifer Zamora
+1112030816,"Zamora, Jennifer",F,8/30/79,MA,2067,0,0,Single,1,Active,0,,3,IT/IS,6,CIO,,"$110,000.00 ",,1001495124,Janet King
+1009919950,"Roper, Katie",F,11/21/72,MA,2056,0,0,Single,1,Active,0,,3,IT/IS,7,Data Architect,,"$67,000.00 ",,1009919920,Brian Champaigne
+1102024056,"Becker, Renee",F,4/4/86,MA,2026,0,0,Single,4,Terminated for Cause,1,performance,3,IT/IS,8,Database Administrator,,"$89,000.00 ",,1106026933,Simon Roup
+905013738,"Goble, Taisha",F,10/23/71,MA,2127,0,0,Single,4,Terminated for Cause,1,"no-call, no-show",3,IT/IS,8,Database Administrator,,,$46.00 ,1106026933,Simon Roup
+1410071156,"Hernandez, Daniff",M ,8/7/86,MA,1960,1,1,Married,4,Terminated for Cause,1,"no-call, no-show",3,IT/IS,8,Database Administrator,,"$89,000.00 ",,1106026933,Simon Roup
+1105025718,"Horton, Jayne",F,2/21/84,MA,2493,0,0,Single,1,Active,0,,3,IT/IS,8,Database Administrator,,"$89,000.00 ",,1106026933,Simon Roup
+1003018246,"Johnson, Noelle ",F,11/7/86,MA,2301,1,1,Married,3,Leave of Absence,0,,3,IT/IS,8,Database Administrator,,"$89,000.00 ",,1106026933,Simon Roup
+1406068403,"Murray, Thomas",M ,7/4/88,TX,78230,0,2,Divorced,1,Active,0,,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1102023965,"Pearson, Randall",M ,9/5/84,MA,2747,1,1,Married,5,Voluntarily Terminated,1,performance,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1108027853,"Petrowsky, Thelma",F,9/16/84,MA,1886,1,1,Married,1,Active,0,,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1407068885,"Roby, Lori ",F,10/11/81,MA,1886,1,1,Married,1,Active,0,,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1203032255,"Rogers, Ivan",M ,8/26/86,MA,1810,1,1,Married,1,Active,0,,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1111030148,"Salter, Jason",M ,12/17/87,MA,2452,0,2,Divorced,5,Voluntarily Terminated,1,hours,3,IT/IS,9,Data Analyst ,,"$77,000.00 ",,1106026933,Simon Roup
+808010278,"Simard, Kramer",M ,2/8/70,MA,2110,1,1,Married,1,Active,0,,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1110029732,"Zhou, Julia",F,2/24/79,MA,2148,0,0,Single,1,Active,0,,3,IT/IS,9,Data Analyst,,"$77,000.00 ",,1106026933,Simon Roup
+1006020066,"Bramante, Elisa",F,3/19/83,MA,2030,0,0,Single,1,Active,0,,5,Production       ,10,Director of Operations,,"$98,755.00 ",,1001495124,Janet King
+1009021646,"Houlihan, Debra",F,3/17/66,RI,2908,1,1,Married,1,Active,0,,6,Sales,11,Director of Sales,,"$98,755.00 ",,1001495124,Janet King
+1192991000,"Foss, Jason",M ,7/5/80,MA,1460,0,0,Single,1,Active,0,,3,IT/IS,12,IT Director,,"$98,755.00 ",,1112030816,Jennifer Zamora
+1106026933,"Roup,Simon",M ,4/5/73,MA,2481,0,0,Single,1,Active,0,,3,IT/IS,13,IT Manager - DB,,"$87,000.00 ",,1112030816,Jennifer Zamora
+1001175250,"Ruiz, Ricardo",M ,1/4/64,MA,1915,0,2,Divorced,5,Voluntarily Terminated,1,hours,3,IT/IS,13,IT Manager - DB,,"$87,000.00 ",,1112030816,Jennifer Zamora
+1011022863,"Monroe, Peter",M ,10/5/86,MA,2134,1,1,Married,1,Active,0,,3,IT/IS,13,IT Manager - Infra,,"$87,000.00 ",,1112030816,Jennifer Zamora
+1101023754,"Dougall, Eric",M ,7/9/70,MA,1886,0,0,Single,1,Active,0,,3,IT/IS,13,IT Manager - Support,,"$87,000.00 ",,1112030816,Jennifer Zamora
+1301052902,"Clayton, Rick",M ,9/5/85,MA,2170,0,0,Single,1,Active,0,,3,IT/IS,14,IT Support,,"$55,000.00 ",,1101023754,Eric Dougall
+1501072093,"Galia, Lisa",F,7/6/68,CT,6040,0,0,Single,1,Active,0,,3,IT/IS,14,IT Support,,"$55,000.00 ",,1101023754,Eric Dougall
+602000312,"Lindsay, Leonara ",F,10/5/88,CT,6070,0,0,Single,1,Active,0,,3,IT/IS,14,IT Support,,,$27.00 ,1101023754,Eric Dougall
+1203032263,"Soto, Julia ",F,3/12/73,MA,2360,1,1,Married,1,Active,0,,3,IT/IS,14,IT Support,,,$27.00 ,1101023754,Eric Dougall
+1212052023,"Bacong, Alejandro ",M ,1/7/88,MA,1886,0,2,Divorced,1,Active,0,,3,IT/IS,14,IT Support,,,$27.00 ,1011022863,Peter Monroe
+1102024173,"Cisco, Anthony",M ,11/24/89,MA,2135,1,1,Married,1,Active,0,,3,IT/IS,14,IT Support,,"$55,000.00 ",,1011022863,Peter Monroe
+1101023540,"Dolan, Linda",F,7/18/88,MA,2119,1,1,Married,1,Active,0,,3,IT/IS,14,IT Support,,"$55,000.00 ",,1011022863,Peter Monroe
+1988299991,"Gonzalez, Maria",F,4/16/81,MA,2472,0,3,Separated,1,Active,0,,3,IT/IS,14,IT Support,,"$55,000.00 ",,1011022863,Peter Monroe
+1012023013,"Merlos, Carlos",M ,6/18/87,MA,2138,0,0,Single,1,Active,0,,3,IT/IS,15,Network Engineer,,"$76,000.00 ",,1011022863,Peter Monroe
+1001956578,"Morway, Tanya",F,4/4/79,MA,2048,1,1,Married,1,Active,0,,3,IT/IS,15,Network Engineer,,"$76,000.00 ",,1011022863,Peter Monroe
+906014183,"Shepard, Anita ",F,4/14/81,MA,1773,1,1,Married,1,Active,0,,3,IT/IS,15,Network Engineer,,"$76,000.00 ",,1011022863,Peter Monroe
+1104025466,"Tredinnick, Neville ",M ,5/5/88,MA,1420,1,1,Married,5,Voluntarily Terminated,1,medical issues,3,IT/IS,15,Network Engineer,,"$76,000.00 ",,1011022863,Peter Monroe
+1411071506,"Turpin, Jumil",M ,3/31/69,MA,2343,1,1,Married,1,Active,0,,3,IT/IS,15,Network Engineer,,"$76,000.00 ",,1011022863,Peter Monroe
+1001495124,"King, Janet",F,9/21/54,MA,1902,1,1,Married,1,Active,0,,2,Executive Office,16,President & CEO,,"$145,000.00 ",,,
+1501072311,"Albert, Michael  ",M ,10/10/68,MA,2169,0,2,Divorced,1,Active,0,,5,Production       ,17,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1303054580,"Bozzi, Charles",M ,3/10/70,MA,1901,0,0,Single,5,Voluntarily Terminated,1,retiring,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1110029990,"Butler, Webster  L",M ,8/9/83,MA,2169,0,0,Single,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1409070147,"Dunn, Amy  ",F,11/28/73,MA,1731,0,0,Single,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1307060077,"Gray, Elijiah  ",M ,7/11/81,MA,1752,0,2,Divorced,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1001944783,"Hogland, Jonathan ",M ,7/1/72,MA,1890,1,1,Married,4,Terminated for Cause,1,attendance,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1403065874,"Immediato, Walter",M ,11/15/76,MA,2128,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1103024679,"Liebig, Ketsia",F,10/26/81,MA,2110,1,1,Married,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1107027351,"Miller, Brannon",M ,8/10/81,MA,2045,0,0,Single,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1402065355,"Peterson, Ebonee  ",F,5/9/77,MA,2030,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1102024149,"Spirea, Kelley",F,9/30/75,MA,2451,1,1,Married,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1000974650,"Stanley, David ",M ,12/17/75,MA,1803,0,2,Divorced,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1405067298,"Sullivan, Kissy ",F,3/28/78,MA,1776,1,1,Married,1,Active,0,,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1410071026,"Wallace, Courtney  E",F,11/14/55,MA,2478,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,18,Production Manager,,"$87,967.00 ",,1001495124,Janet King
+1304055947,"Anderson, Linda  ",F,5/22/77,MA,1844,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1109029366,"Bernstein, Sean",M ,12/22/70,MA,2072,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1101023394,"Chivukula, Enola",F,8/27/83,MA,1775,0,0,Single,5,Voluntarily Terminated,1,relocation out of area,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1501072124,"Desimone, Carl ",M ,4/19/67,MA,2061,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1302053339,"Fernandes, Nilson  ",M ,10/18/89,MA,2132,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1204032927,"Girifalco, Evelyn",F,5/8/80,MA,2451,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1404066622,"Harrison, Kara",F,5/2/74,MA,1886,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+903013071,"Kirill, Alexandra  ",F,10/8/70,MA,2127,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1201031032,"MacLennan, Samuel",M ,11/9/72,MA,1938,0,4,Widowed,5,Voluntarily Terminated,1,hours,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1204033044,"Ndzi, Horia",M ,3/28/83,MA,2421,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1109029186,"Perry, Shakira",F,7/20/86,MA,2176,0,0,Single,5,Voluntarily Terminated,1,medical issues,5,Production       ,19,Production Technician I,,,$30.00 ,1409070147,Amy Dunn
+1206038000,"Robinson, Alain  ",M ,1/7/74,MA,1420,1,1,Married,5,Voluntarily Terminated,1,attendance,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1409070147,Amy Dunn
+1205033102,"Shields, Seffi",F,8/24/85,MA,2149,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1409070147,Amy Dunn
+1404066739,"Theamstern, Sophia",F,5/9/65,MA,2066,0,0,Single,5,Voluntarily Terminated,1,return to school,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1409070147,Amy Dunn
+1101023839,"Wilber, Barry",M ,9/9/65,MA,2324,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1409070147,Amy Dunn
+1212051409,"Bachiochi, Linda",F,2/11/70,MA,1902,0,0,Single,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1308060366,"Billis, Helen",F,9/1/89,MA,2031,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1407069280,"Clukey, Elijian",M ,8/26/80,MA,2134,1,1,Married,2,Future Start,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1209048696,"DiNocco, Lily ",F,12/2/78,MA,2351,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1006020020,"Fidelia,  Libby",F,3/16/81,MA,2155,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1411071212,"Gonzalez, Cayo",M ,9/29/69,MA,2108,0,2,Divorced,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1408069882,"Ivey, Rose ",F,1/28/91,MA,1775,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1311062610,"Kretschmer, John",M ,2/2/80,MA,1801,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1308060754,"Mangal, Debbie",F,11/7/74,MA,2451,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1403066020,"Ngodup, Shari ",F,6/3/67,MA,1810,0,3,Separated,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1305057440,"Pham, Hong",M ,3/6/88,MA,2451,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1011022887,"Robinson, Elias",M ,1/28/85,MA,1730,0,4,Widowed,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1410071137,"Sparks, Taylor  ",F,7/20/68,MA,2093,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1409070255,"Tippett, Jeanette",F,6/5/67,MA,2093,0,2,Divorced,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1001268402,"Ybarra, Catherine ",F,5/4/82,MA,2458,0,0,Single,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1107027351,Brannon Miller
+1307060083,"Baczenski, Rachael  ",F,1/12/74,MA,1902,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1406068293,"Brill, Donna",F,8/24/90,MA,1701,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1599991009,"Cockel, James",M ,9/8/77,MA,2452,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1202031618,"Dobrin, Denisa  S",F,10/7/86,MA,2125,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1309061015,"Garcia, Raul",M ,9/15/85,MA,1905,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1106026579,"Gordon, David",M ,5/21/79,MA,2169,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1201031438,"Jackson, Maryellen",F,9/11/72,MA,2081,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1304055987,"Langton, Enrico",M ,12/9/86,MA,2048,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1401064327,"Maurice, Shana",F,11/22/77,MA,2330,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1203032357,"Nguyen, Lei-Ming",F,7/7/84,MA,2132,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1001735072,"Pitt, Brad ",M ,11/23/81,MA,2451,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+710007555,"Rose, Ashley  ",F,12/5/74,MA,1886,0,3,Separated,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1405067138,"Squatrito, Kristen",F,3/26/73,MA,2359,0,2,Divorced,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1012023152,"Trang, Mei",F,5/16/83,MA,2021,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1211051232,"Zima, Colleen",F,8/17/78,MA,1730,0,4,Widowed,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1000974650,David Stanley
+1011022883,"Alagbe,Trina",F,9/27/88,MA,1886,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1403066194,"Beatrice, Courtney ",F,10/27/70,MA,1915,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1305057282,"Chan, Lin",F,2/12/79,MA,2170,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1001109612,"Darson, Jene'ya ",F,11/5/78,MA,2110,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1107027392,"Evensen, April",F,5/6/89,MA,2458,0,0,Single,4,Terminated for Cause,1,"no-call, no-show",5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1308060622,"Gerke, Melisa",F,5/15/70,MA,2330,0,2,Divorced,5,Voluntarily Terminated,1,hours,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1406068241,"Harrell, Ludwick",M ,9/2/82,MA,1776,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1107027450,"Jung, Judy  ",F,4/17/86,MA,2446,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1101023353,"Lydon, Allison",F,10/22/75,MA,2122,1,1,Married,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1102024121,"Motlagh,  Dawn",F,7/7/84,MA,2453,0,2,Divorced,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1109029531,"Panjwani, Nina",F,5/1/79,MA,2351,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1211050793,"Rhoads, Thomas",M ,7/22/82,MA,2176,0,2,Divorced,5,Voluntarily Terminated,1,retiring,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1302053362,"Sander, Kamrin",F,7/10/88,MA,2154,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1407069061,"Sutwell, Barbara",F,8/15/68,MA,2718,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1101023619,"Wallace, Theresa",F,8/2/80,MA,1887,0,0,Single,5,Voluntarily Terminated,1,career change,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1307060077,Elijiah Gray
+1101023679,"Barone, Francesco  A",M ,7/20/83,MA,1810,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1311063114,"Carey, Michael  ",M ,2/2/83,MA,1701,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1403066069,"Cornett, Lisa ",F,3/31/77,MA,2189,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1007020403,"Engdahl, Jean",M ,5/31/74,MA,2026,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1101023612,"England, Rex",M ,8/25/78,MA,2045,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1105026041,"Gaul, Barbara",F,12/2/83,MA,2121,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1103024859,"Gross, Paula",F,5/21/83,MA,2176,0,2,Divorced,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1412071713,"Jhaveri, Sneha  ",F,4/13/64,MA,2109,0,3,Separated,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1107027575,"LeBel, Jonathan  R",M ,10/18/81,MA,2050,0,0,Single,4,Terminated for Cause,1,attendance,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1409070245,"Meads, Elizabeth",F,5/30/68,MA,1760,0,0,Single,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1404066949,"Osturnka, Adeel",M ,12/11/76,MA,2478,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1401064562,"Punjabhi, Louis  ",M ,6/19/61,MA,2109,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1410070998,"Saar-Beckles, Melinda",F,6/6/68,MA,1801,0,0,Single,2,Future Start,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1106026896,"Stoica, Rick",M ,3/14/85,MA,2301,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1011022814,"Volk, Colleen",F,6/3/86,MA,2747,1,1,Married,4,Terminated for Cause,1,gross misconduct,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1102024149,Kelley Spirea
+1301052124,"Athwal, Sam",M ,2/18/83,MA,2199,0,4,Widowed,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1412071844,"Biden, Lowan  M",F,12/27/58,MA,2027,0,2,Divorced,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1012023295,"Cierpiszewski, Caroline  ",F,5/31/88,MA,2044,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+706006285,"Dickinson, Geoff ",M ,11/15/82,MA,2180,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+803009012,"Ferreira, Violeta",F,6/10/86,MA,2176,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1408069539,"Gold, Shenice  ",F,6/18/92,MA,2451,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1002017900,"Heitzman, Anthony",M ,1/4/84,MA,2149,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1304055683,"Knapp, Bradley  J",M ,11/10/77,MA,1721,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1209049259,"Mahoney, Lauren  ",F,7/7/86,MA,2189,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1302053044,"Newman, Richard ",M ,4/8/77,MA,2136,1,1,Married,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1307059944,"Peterson, Kayla ",F,9/23/73,MA,1749,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1403065625,"Robinson, Cherly",F,1/7/85,MA,1460,1,1,Married,4,Terminated for Cause,1,attendance,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1501071909,"Smith, Sade",F,2/2/65,MA,2130,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1103024504,"Tinto, Theresa  ",F,7/30/83,MA,1876,0,2,Divorced,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1308060671,"Williams, Jacquelyn  ",F,10/2/69,MA,2109,0,0,Single,5,Voluntarily Terminated,1,relocation out of area,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1103024679,Ketsia Liebig
+1312063507,"Barbara, Thomas",M ,2/21/74,MA,2062,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1408069635,"Bugali, Josephine ",F,10/30/69,MA,2043,0,3,Separated,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1001450968,"Cole, Spencer",M ,8/12/79,MA,1880,0,0,Single,4,Terminated for Cause,1,performance,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1406067865,"Eaton, Marianne",F,9/5/91,MA,2343,1,1,Married,5,Voluntarily Terminated,1,military,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1104025414,"Garneau, Hamish",M ,4/18/80,MA,1550,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1312063675,"Goyal, Roxana",F,10/9/74,MA,1864,1,1,Married,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1503072857,"Jacobi, Hannah  ",F,3/22/66,MA,1778,0,2,Divorced,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1408069409,"Leach, Dallas",F,1/17/79,MA,1810,0,0,Single,5,Voluntarily Terminated,1,return to school,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+909015167,"Mckenna, Sandy",F,1/7/87,MA,2184,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1206044851,"O'hare, Lynn",F,9/30/80,MA,2152,0,0,Single,4,Terminated for Cause,1,performance,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1102024274,"Power, Morissa",F,10/15/84,MA,1742,0,2,Divorced,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1011022926,"Purinton, Janine",F,9/22/70,MA,2474,0,2,Divorced,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1405067492,"Rossetti, Bruno",M ,3/18/87,MA,2155,0,0,Single,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1111030244,"Stanford,Barbara  M",F,8/25/82,MA,2050,0,2,Divorced,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1203032235,"Veera, Abdellah ",M ,1/31/87,MA,2171,0,2,Divorced,5,Voluntarily Terminated,1,maternity leave - did not return,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1405067298,Kissy Sullivan
+1409070522,"Adinolfi, Wilson  K",M ,7/10/83,MA,1960,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1212051962,"Barton, Nader",M ,7/15/77,MA,2747,0,2,Divorced,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1208048062,"Chace, Beatrice ",F,1/2/51,MA,2763,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1311063172,"Crimmings,   Jean",F,4/10/87,MA,1821,0,0,Single,2,Future Start,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1104025243,"Estremera, Miguel",M ,9/2/83,MA,2129,0,0,Single,4,Terminated for Cause,1,attendance,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1501072192,"Gentry, Mildred",F,10/1/90,MA,2145,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1405067064,"Handschiegl, Joanne",F,3/23/77,MA,2127,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1105025721,"Johnson, George",M ,8/19/59,MA,2445,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1301052462,"Keatts, Kramer ",M ,1/19/76,MA,1887,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1206042315,"Linares, Marilyn ",F,3/26/81,MA,1886,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1109029256,"Medeiros, Jennifer",F,9/22/76,MA,2346,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1103024335,"Owad, Clinton",M ,11/24/79,MA,1760,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1208048229,"Rarrick, Quinn",M ,12/31/84,MA,2478,0,2,Divorced,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1308060535,"Sadki, Nore  ",M ,12/21/74,MA,2148,0,0,Single,5,Voluntarily Terminated,1,relocation out of area,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1201031310,"Sullivan, Timothy",M ,10/7/82,MA,2747,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1106026474,"Von Massenbach, Anna",F,4/6/85,MA,2124,0,0,Single,2,Future Start,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1501072311,Michael Albert
+1001417624,"Anderson, Carol ",F,9/8/89,MA,2169,0,2,Divorced,5,Voluntarily Terminated,1,return to school,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1110029777,"Becker, Scott",M ,4/6/79,MA,2452,0,0,Single,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1111030129,"Chang, Donovan  E",M ,8/24/83,MA,1845,0,0,Single,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1306058816,"DeGweck,  James",M ,10/31/77,MA,1810,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1502072511,"Ferguson, Susan",F,4/14/55,MA,2176,1,1,Married,5,Voluntarily Terminated,1,military,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1008020960,"Gilles, Alex",M ,8/9/74,MA,2062,1,1,Married,5,Voluntarily Terminated,1,military,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1110029602,"Harrington, Christie ",F,8/18/52,MA,2324,0,0,Single,5,Voluntarily Terminated,1,retiring,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+710007401,"Kinsella, Kathleen  ",F,12/8/73,MA,2170,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1001138521,"Lynch, Lindsay",F,2/14/73,MA,1844,0,0,Single,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1204033041,"Ndzi, Colombui",M ,5/2/89,MA,2110,0,0,Single,5,Voluntarily Terminated,1,return to school,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1307060058,"Pelech, Emil",M ,3/17/88,MA,2458,0,0,Single,5,Voluntarily Terminated,1,career change,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1405067642,"Rivera, Haley  ",F,1/12/73,MA,2171,1,1,Married,1,Active,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+807010161,"Sewkumar, Nori",F,3/10/75,MA,2191,0,0,Single,3,Leave of Absence,0,,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1405067501,"Tavares, Desiree  ",F,4/3/75,MA,1801,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1307060212,"Whittier, Scott",M ,5/24/87,MA,2030,0,0,Single,5,Voluntarily Terminated,1,hours,5,Production       ,19,Production Technician I,,"$57,600.00 ",,1110029990,Webster Butler
+1011022820,"Burke, Joelle",F,3/2/80,MA,2148,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,,$32.00 ,1409070147,Amy Dunn
+1109029103,"Fitzpatrick, Michael  J",M ,10/1/81,MA,2143,0,0,Single,5,Voluntarily Terminated,1,hours,5,Production       ,20,Production Technician II,,,$32.00 ,1409070147,Amy Dunn
+1306058509,"Huynh, Ming",F,9/22/76,MA,1742,0,2,Divorced,5,Voluntarily Terminated,1,unhappy,5,Production       ,20,Production Technician II,,,$32.00 ,1409070147,Amy Dunn
+1304055986,"Mancuso, Karen",F,12/10/86,MA,2176,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,20,Production Technician II,,,$32.00 ,1409070147,Amy Dunn
+1202031821,"Pelletier, Ermine",F,7/18/89,MA,2472,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,20,Production Technician II,,"$61,440.00 ",,1409070147,Amy Dunn
+1107027551,"Trzeciak, Cybil",F,3/15/85,MA,1778,0,0,Single,5,Voluntarily Terminated,1,unhappy,5,Production       ,20,Production Technician II,,"$61,440.00 ",,1409070147,Amy Dunn
+1012023226,"Cloninger, Jennifer",F,8/31/81,MA,1752,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,20,Production Technician II,,"$61,440.00 ",,1107027351,Brannon Miller
+1411071324,"Gonzalez, Juan",M ,10/12/64,MA,2128,1,1,Married,5,Voluntarily Terminated,1,career change,5,Production       ,20,Production Technician II,,,$32.00 ,1107027351,Brannon Miller
+1306057810,"Johnston, Yen",F,9/8/69,MA,2128,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,,$32.00 ,1107027351,Brannon Miller
+1205033439,"Miller, Ned",M ,6/29/85,MA,2472,0,0,Single,5,Voluntarily Terminated,1,unhappy,5,Production       ,20,Production Technician II,,,$32.00 ,1107027351,Brannon Miller
+1103024843,"Petingill, Shana  ",F,3/10/79,MA,2050,1,1,Married,1,Active,0,,5,Production       ,20,Production Technician II,,,$32.00 ,1107027351,Brannon Miller
+1405067188,"Winthrop, Jordan  ",M ,11/7/58,MA,2045,0,0,Single,5,Voluntarily Terminated,1,retiring,5,Production       ,20,Production Technician II,,,$32.00 ,1107027351,Brannon Miller
+1209048697,"Close, Phil",M ,11/25/78,MA,2169,1,1,Married,5,Voluntarily Terminated,1,career change,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1000974650,David Stanley
+1001549006,"Good, Susan",F,5/25/86,MA,1886,1,1,Married,3,Leave of Absence,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1000974650,David Stanley
+1010022030,"Langford, Lindsey",F,7/25/79,MA,2090,0,2,Divorced,5,Voluntarily Terminated,1,Another position,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1000974650,David Stanley
+1404066711,"Monkfish, Erasumus",M ,8/17/92,MA,1450,1,1,Married,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1000974650,David Stanley
+1402065340,"Roberson, May",F,9/5/81,MA,1902,0,2,Divorced,5,Voluntarily Terminated,1,return to school,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1000974650,David Stanley
+1205033180,"Wolk, Hang  T",F,4/20/85,MA,2302,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1000974650,David Stanley
+1008021030,"Bondwell, Betsy",F,1/16/67,MA,2210,0,0,Single,5,Voluntarily Terminated,1,career change,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1108028428,"Faller, Megan ",F,9/22/78,MA,1824,1,1,Married,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1106026433,"Hunts, Julissa",F,3/11/84,MA,2021,0,0,Single,2,Future Start,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1001504432,"Lunquist, Lisa",F,3/28/82,MA,2324,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1104025435,"Nowlan, Kristie",F,11/23/85,MA,1040,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1001970770,"Smith, Joe",M ,10/30/63,MA,2045,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1406068345,"Tejeda, Lenora ",F,5/24/53,MA,2129,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1307060077,Elijiah Gray
+1303054329,"Beak, Kimberly  ",F,4/17/66,MA,2145,1,1,Married,2,Future Start,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1104025179,"Demita, Carla",F,2/25/51,MA,2343,0,3,Separated,5,Voluntarily Terminated,1,more money,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1307059937,"Hankard, Earnest",M ,8/10/88,MA,2155,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1011022932,"Hendrickson, Trina",F,8/27/72,MA,2021,0,0,Single,5,Voluntarily Terminated,1,hours,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1405067565,"Linden, Mathew",M ,3/19/79,MA,1770,1,1,Married,3,Leave of Absence,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1408069503,"Moran, Patrick",M ,12/3/76,MA,2127,0,0,Single,3,Leave of Absence,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1106026462,"Sahoo, Adil",M ,4/26/86,MA,2062,1,1,Married,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1102024149,Kelley Spirea
+1301052449,"Burkett, Benjamin ",M ,8/19/77,MA,1890,1,1,Married,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1103024679,Ketsia Liebig
+1012023204,"Foreman, Tanya",F,11/8/83,MA,2170,1,1,Married,5,Voluntarily Terminated,1,career change,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1103024679,Ketsia Liebig
+1008020942,"Jeannite, Tayana",F,11/6/86,MA,1821,0,2,Divorced,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1103024679,Ketsia Liebig
+1406067957,"McCarthy, Brigit",F,5/21/87,MA,2149,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1103024679,Ketsia Liebig
+1411071406,"Peters, Lauren",F,8/17/86,MA,1886,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1103024679,Ketsia Liebig
+1011022818,"Walker, Roger",M ,2/10/76,MA,2459,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1103024679,Ketsia Liebig
+1005019209,"Akinkuolie, Sarah",F,9/19/88,MA,1810,1,1,Married,5,Voluntarily Terminated,1,hours,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1201031274,"Davis, Daniel",M ,9/14/79,MA,2458,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1108028351,"Gosciminski, Phylicia  ",F,12/8/83,MA,1824,0,3,Separated,3,Leave of Absence,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1104025486,"Latif, Mohammed",M ,5/9/84,MA,2126,1,1,Married,5,Voluntarily Terminated,1,more money,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1001103149,"Monterro, Luisa",F,4/24/70,MA,2126,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1499902991,"Robertson, Peter",M ,7/3/72,MA,2138,1,1,Married,5,Voluntarily Terminated,1,Another position,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1012023010,"Woodson, Jason",M ,5/11/85,MA,1810,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1405067298,Kissy Sullivan
+1403066125,"Blount, Dianna",F,9/21/90,MA,2171,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1501072311,Michael Albert
+1105025661,"Erilus, Angela",F,8/25/89,MA,2133,0,3,Separated,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1501072311,Michael Albert
+1207046956,"Homberger, Adrienne  J",F,2/16/84,MA,2445,1,1,Married,5,Voluntarily Terminated,1,relocation out of area,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1501072311,Michael Albert
+1305056276,"Lundy, Susan",F,12/26/76,MA,2122,0,4,Widowed,5,Voluntarily Terminated,1,more money,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1501072311,Michael Albert
+1301052436,"Moumanil, Maliki ",M ,12/1/74,MA,1460,0,3,Separated,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1501072311,Michael Albert
+1012023103,"Sloan, Constance",F,11/25/87,MA,1851,0,0,Single,5,Voluntarily Terminated,1,maternity leave - did not return,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1501072311,Michael Albert
+1101023457,"Buccheri, Joseph  ",M ,7/28/83,MA,1013,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1110029990,Webster Butler
+1402065085,"Fancett, Nicole",F,9/27/87,MA,2324,0,0,Single,1,Active,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1110029990,Webster Butler
+1103024924,"Hutter, Rosalie",F,5/7/92,MA,2351,0,3,Separated,2,Future Start,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1110029990,Webster Butler
+1110029623,"Manchester, Robyn",F,8/25/76,MA,2324,1,1,Married,2,Future Start,0,,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1110029990,Webster Butler
+1001856521,"Oliver, Brooke ",F,2/11/52,MA,2492,1,1,Married,5,Voluntarily Terminated,1,unhappy,5,Production       ,20,Production Technician II,,"$61,400.00 ",,1110029990,Webster Butler
+1011022777,"Thibaud, Kenneth",M ,9/16/75,MA,2472,0,4,Widowed,5,Voluntarily Terminated,1,military,5,Production       ,20,Production Technician II,,,$32.00 ,1110029990,Webster Butler
+1402065303,"Daneault, Lynn",F,4/19/90,VT,5473,0,0,Single,1,Active,0,,6,Sales,21,Sales Manager,,"$77,000.00 ",,1009021646,Debra Houlihan
+1109029264,"Kampew, Donysha",F,11/11/89,PA,19444,0,0,Single,5,Voluntarily Terminated,1,maternity leave - did not return,6,Sales,21,Sales Manager,,"$77,000.00 ",,1009021646,Debra Houlihan
+1499902910,"Smith, John",M ,8/16/84,MA,1886,0,2,Divorced,1,Active,0,,6,Sales,21,Sales Manager,,"$77,000.00 ",,1009021646,Debra Houlihan
+1009919930,"Le, Binh",F,6/14/87,MA,1886,0,0,Single,1,Active,0,,3,IT/IS,22,Senior BI Developer,,"$87,900.00 ",,1009919920,Brian Champaigne
+1009919960,"Navathe, Kurt",M ,4/25/70,MA,2056,0,0,Single,1,Active,0,,3,IT/IS,22,Senior BI Developer,,"$87,900.00 ",,1009919920,Brian Champaigne
+1009919970,"Wang, Charlie",M ,7/8/81,MA,1887,0,0,Single,1,Active,0,,3,IT/IS,22,Senior BI Developer,,"$87,900.00 ",,1009919920,Brian Champaigne
+1102024115,"LeBlanc, Brandon  R",M ,6/10/84,MA,1460,1,1,Married,1,Active,0,,1,Admin Offices,23,Shared Services Manager,,"$75,600.00 ",,1001495124,Janet King
+1206043417,"Quinn, Sean",M ,11/6/84,MA,2045,1,1,Married,5,Voluntarily Terminated,1,career change,1,Admin Offices,23,Shared Services Manager,,"$75,600.00 ",,1001495124,Janet King
+1107027358,"Andreola, Colby",F,5/24/79,MA,2110,0,0,Single,1,Active,0,,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1101023577,"Carabbio, Judith",F,4/5/87,MA,2132,0,0,Single,1,Active,0,,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1203032498,"Del Bosque, Keyla",F,7/5/79,MA,2176,0,0,Single,1,Active,0,,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1401064670,"Exantus, Susan",F,5/15/87,MA,1749,1,1,Married,4,Terminated for Cause,1,attendance,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1303054625,"Martin, Sandra",F,11/7/87,MA,2135,0,0,Single,1,Active,0,,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1112030979,"Patronick, Luke",M ,2/20/79,MA,1844,0,0,Single,5,Voluntarily Terminated,1,Another position,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1012023185,"Saada, Adell",F,7/24/86,MA,2132,1,1,Married,1,Active,0,,4,Software Engineering,24,Software Engineer,,,$28.00 ,1001644719,Alex Sweetwater
+1201031324,"Szabo, Andrew",M ,5/6/83,MA,2140,0,0,Single,1,Active,0,,4,Software Engineering,24,Software Engineer,,"$53,760.00 ",,1001644719,Alex Sweetwater
+1102024057,"True, Edward",M ,6/14/83,MA,2451,0,0,Single,5,Voluntarily Terminated,1,medical issues,4,Software Engineering,24,Software Engineer,,"$53,760.00 ",,1001644719,Alex Sweetwater
+1001644719,"Sweetwater, Alex",M ,11/22/66,MA,2184,0,0,Single,1,Active,0,,4,Software Engineering,25,Software Engineering Manager,,"$77,000.00 ",,1112030816,Jennifer Zamora
+1201031308,"Foster-Baker, Amy",F,4/16/79,MA,2050,1,1,Married,1,Active,0,,1,Admin Offices,26,Sr. Accountant,,"$77,000.00 ",,,
+1307060188,"Boutwell, Bonalyn",F,4/4/87,MA,2468,1,1,Married,1,Active,0,,1,Admin Offices,26,Sr. Accountant,,"$77,000.00 ",,1102024115,Brandon R. LeBlanc
+1307060199,"Ait Sidi, Karthikeyan   ",M ,5/5/75,MA,2148,1,1,Married,5,Voluntarily Terminated,1,career change,3,IT/IS,27,Sr. DBA,,"$87,000.00 ",,1106026933,Simon Roup
+1010022337,"Carr, Claudia  N",F,6/6/86,MA,1886,0,0,Single,2,Future Start,0,,3,IT/IS,27,Sr. DBA,,"$87,000.00 ",,1106026933,Simon Roup
+1412071562,"Favis, Donald  ",M ,7/30/64,CT,6033,0,0,Single,4,Terminated for Cause,1,hours,3,IT/IS,30,Enterprise Architect,,"$76,450.00 ",,1106026933,Simon Roup
+1111030266,"Roehrich, Bianca",F,5/27/73,MA,2703,0,0,Single,5,Voluntarily Terminated,1,Another position,3,IT/IS,29,Principal Data Architect,,"$80,000.00 ",,1106026933,Simon Roup
+1411071312,"Daniele, Ann  ",F,1/18/52,CT,6033,1,1,Married,3,Leave of Absence,0,,3,IT/IS,28,Sr. Network Engineer,,"$85,450.00 ",,1011022863,Peter Monroe
+1108028108,"Lajiri,  Jyoti",M ,4/23/86,MA,2169,1,1,Married,3,Leave of Absence,0,,3,IT/IS,28,Sr. Network Engineer,,"$85,450.00 ",,1011022863,Peter Monroe
+904013591,"Semizoglou, Jeremiah  ",M ,2/9/83,MA,1545,1,1,Married,2,Future Start,0,,3,IT/IS,28,Sr. Network Engineer,,"$85,450.00 ",,1011022863,Peter Monroe
+1308060959,"South, Joe",M ,9/9/65,CT,6278,0,0,Single,1,Active,0,,3,IT/IS,28,Sr. Network Engineer,,"$85,450.00 ",,1011022863,Peter Monroe
+1301052347,"Warfield, Sarah",F,5/2/78,MA,2453,0,4,Widowed,1,Active,0,,3,IT/IS,28,Sr. Network Engineer,,"$85,450.00 ",,1011022863,Peter Monroe
