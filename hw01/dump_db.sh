@@ -1,3 +1,3 @@
-DATABASE_NAME=employee_assignment01
+DATABASE_NAME=$1 # employee_assignment01, employee_a01_2ndmodel
 
-mysqldump -u root $DATABASE_NAME > employee_db_dump.sql
+mysqldump -u root $DATABASE_NAME > $1.sql
