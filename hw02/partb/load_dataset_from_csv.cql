@@ -8,7 +8,7 @@ LOAD CSV WITH HEADERS FROM "http://localhost:11001/project-5c23e13a-df4f-4cc3-92
     MERGE (a:Person { 
         id: toInteger(line.id),  
         name: line.name,
-        state: line.name
+        state: line.state
     });
 
 // LOAD friends.csv (note that the URL path is different based on environment)
