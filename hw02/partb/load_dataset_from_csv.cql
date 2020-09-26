@@ -12,7 +12,6 @@ LOAD CSV WITH HEADERS FROM "http://localhost:11001/project-5c23e13a-df4f-4cc3-92
     });
 
 // LOAD friends.csv (note that the URL path is different based on environment)
-
 LOAD CSV WITH HEADERS FROM "http://localhost:11001/project-5c23e13a-df4f-4cc3-929f-52bace6b96ef/friends.csv" AS line 
     MATCH (p:Person { id: toInteger(line.personId) })
     MATCH (f:Person { id: toInteger(line.friendId) })
